@@ -1,4 +1,4 @@
-import { FC, JSX } from "react";
+import { JSX } from "react";
 import { Content } from "@prismicio/client";
 import {
   JSXMapSerializer,
